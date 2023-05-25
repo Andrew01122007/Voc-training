@@ -23,3 +23,5 @@ discord.py 2.2.3 dc bot
 GPT-3 用來生成例句和題目
 
 Flask 預計網頁的後端使用flask寫
+
+MongoDB 用來存單字庫
